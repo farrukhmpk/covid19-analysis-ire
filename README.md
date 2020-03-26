@@ -11,4 +11,4 @@ A very simple analysis performed on the reported cases of COVID-19 in Ireland ba
 Licenses
 =========
 
-This **data** and **analysis** (this service) is provided under LGPL version 3 or later License.
+This **data** and **analysis** is provided under LGPL version 3 or later License.
